@@ -1,0 +1,51 @@
+/******************************tag selectors**********************/
+body {
+  background-color: #FFF9B6;
+}
+
+hr {
+  background-color: #FFF9B6;
+  border-style: none;
+  border-top-style: dotted;
+  width: 200px;
+  border-color: grey;
+  border-width: 7px;
+}
+
+img {
+
+  height: 400px;
+  width: 300px;
+}
+h1 {
+  color: #FF9292 ;
+}
+p {
+  background-color: grey ;
+  color: #FFCCD2 ;
+}
+menu {
+  color: black ;
+}
+li {
+color: black ;
+}
+h2{
+  color: #FF9292;
+
+}
+
+/*****************************class selectors**********************/
+.cities{
+text-align: center;
+}
+.travels {
+  border-radius: 10%
+}
+.travels:hover{
+  height: 450px;
+  width:350px;
+}
+.circular{
+  border-radius: 80%;
+}
